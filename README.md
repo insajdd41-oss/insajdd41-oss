@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- мой первый проектик
-=======
 <h1 align="center">Привет, я Соня!</h1>
 <h3 align="center">Художница, рукодельница, кулинар, студентка веб-51</h3>
 
@@ -19,7 +16,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Связаться
-- GitHub: https://github.com/<insajdd41-oss>
+- GitHub: https://github.com/insajdd41-oss
 - Email: insajdd41@gmail.com
 - Телефон: +7 996 459 89 25
->>>>>>> f80f3dfbe98f9c7dbf97f8d3cc294acdf1f6d107
